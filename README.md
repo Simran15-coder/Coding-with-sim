@@ -1,2 +1,3 @@
 # Coding-with-sim
 #THIS IS MY FIRST GIT REPOSITARY
+Author: SIMRAN KANWAR
